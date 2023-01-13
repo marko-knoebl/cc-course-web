@@ -4,7 +4,8 @@
 - [ ] **arrow functions**
 - [ ] **spread operator (`...`)**
 - [ ] **ternary operator / conditional operator**
-- [ ] **`let`, `const` and `var`**
+- [ ] **`let`, `const` (and `var`)**
+- [ ] **object destructuring**
 - [ ] **higher-order functions**
   - [ ] **callbacks**
   - [ ] **array methods**
@@ -14,16 +15,18 @@
     - [ ] **`filter`**
     - [ ] **`reduce`**
 - [ ] **HTTP**
-  - [ ] **methods**
+  - [ ] **methods: _GET_, _POST_, ...**
   - [ ] **header entries**
   - [ ] **body**
 - [ ] **fetch and asynchronous code**
-  - [ ] **promises with `async` / `await`**
-  - [ ] **promises with `.then`**
+  - [ ] **asynchronous code with `async` / `await`**
+  - [ ] **asynchronous code with `.then`**
   - [ ] creating custom promises
 - [ ] **APIs**
+  - [ ] **API keys**
+  - [ ] **JSON format**
+  - [ ] **REST architecture**
 - [ ] issue / bug trackers
-- [ ] (TypeScript)
 
 # chapter 2
 
@@ -32,3 +35,4 @@
 - [ ] web server concepts
 - [ ] express.js
   - [ ] routing
+- [ ] (TypeScript)
