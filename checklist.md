@@ -31,8 +31,14 @@
 # chapter 2
 
 - [ ] npm packages
-- [ ] JavaScript modules and `import` / `export`
 - [ ] web server concepts
 - [ ] express.js
+  - [ ] responding to requests
+  - [ ] rendering templates
   - [ ] routing
+  - [ ] handling different methods (_GET_, _POST_, ...)
+  - [ ] sending JSON
+  - [ ] REST APIs
+- [ ] handling form submits from JavaScript
+- [ ] JavaScript modules and `import` / `export`
 - [ ] (TypeScript)
