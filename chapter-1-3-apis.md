@@ -1,6 +1,6 @@
 # APIs
 
-example: https://jsonplaceholder.com
+example: https://jsonplaceholder.typicode.com
 
 data formats: **JSON**, XML, ...
 
