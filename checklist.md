@@ -27,6 +27,7 @@
   - [ ] **JSON format**
   - [ ] **REST architecture**
 - [ ] issue / bug trackers
+- [ ] git branches
 
 # chapter 2
 
