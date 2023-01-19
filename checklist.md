@@ -1,45 +1,46 @@
 # chapter 1
 
 - [ ] JavaScript versions
+- [ ] `let`, `const` (and `var`)
 - [ ] **arrow functions**
 - [ ] **spread operator (`...`)**
 - [ ] **ternary operator / conditional operator**
-- [ ] **`let`, `const` (and `var`)**
 - [ ] **object destructuring**
 - [ ] **higher-order functions**
   - [ ] **callbacks**
   - [ ] **array methods**
-    - [ ] **`forEach`**
-    - [ ] **`sort`**
     - [ ] **`map`**
     - [ ] **`filter`**
     - [ ] **`reduce`**
-- [ ] **HTTP**
-  - [ ] **methods: _GET_, _POST_, ...**
-  - [ ] **header entries**
-  - [ ] **body**
+    - [ ] **`sort`**
 - [ ] **fetch and asynchronous code**
   - [ ] **asynchronous code with `async` / `await`**
   - [ ] **asynchronous code with `.then`**
   - [ ] creating custom promises
 - [ ] **APIs**
-  - [ ] **API keys**
+  - [ ] (API keys)
   - [ ] **JSON format**
-  - [ ] **REST architecture**
 - [ ] issue / bug trackers
 - [ ] git branches
 
 # chapter 2
 
-- [ ] npm packages
+- [ ] npm packages and _package.json_
 - [ ] web server concepts
-- [ ] express.js
-  - [ ] responding to requests
-  - [ ] rendering templates
-  - [ ] routing
-  - [ ] handling different methods (_GET_, _POST_, ...)
-  - [ ] sending JSON
-  - [ ] REST APIs
-- [ ] handling form submits from JavaScript
+- [ ] **HTTP**
+  - [ ] **methods: _GET_, _POST_, ...**
+  - [ ] **header entries**
+  - [ ] **body**
+- [ ] use cases of express.js: _rendering HTML on the backend_ / **providing an API**
+- [ ] **express.js**
+  - [ ] **responding to requests**
+  - [ ] types of responses
+    - [ ] serving static files (HTML, CSS, images, ...)
+    - [ ] rendering HTML templates
+    - [ ] **sending JSON**
+  - [ ] **routing**
+  - [ ] **handling different methods (_GET_, _POST_, ...)**
+  - [ ] **REST APIs**
+- [ ] **handling form submits from JavaScript (_.preventDefault()_)**
 - [ ] JavaScript modules and `import` / `export`
 - [ ] (TypeScript)
