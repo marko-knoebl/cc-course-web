@@ -29,6 +29,7 @@
 - [ ] npm packages and _package.json_
   - [ ] `npm install`
   - [ ] `npm run`
+- [ ] JavaScript modules and `import` / `export`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
@@ -45,6 +46,10 @@
   - [ ] **routing**
   - [ ] **handling different methods (_GET_, _POST_, ...)**
   - [ ] **REST APIs**
+  - [ ] CORS
 - [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
-- [ ] JavaScript modules and `import` / `export`
-- [ ] (TypeScript)
+
+# extra topics
+
+- [ ] CSS
+- [ ] TypeScript

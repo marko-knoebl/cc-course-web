@@ -1,7 +1,7 @@
 # overview
 
 - chapter 1: week start 2023-01-09
-- chapter 2: week start 2023-01-23?
+- chapter 2: week start 2023-01-23
 - chapter 3: week start 2023-02-13?
 - chapter 4: week start 2023-03-06?
 - chapter 5: week start 2023-03-27?
@@ -19,3 +19,4 @@
 - 2023-01-17: issue trackers, (branches)
 - 2023-01-19: teamwork (weather)
 - 2023-01-21: presentations, intro to _express_
+- 2023-01-23: "abandoned packages"
