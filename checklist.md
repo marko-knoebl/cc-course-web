@@ -13,11 +13,12 @@
     - [ ] **`filter`**
     - [ ] **`reduce`**
     - [ ] **`sort`**
-- [ ] **fetch and asynchronous code**
+- [ ] **asynchronous code**
   - [ ] **asynchronous code with `async` / `await`**
   - [ ] **asynchronous code with `.then`**
   - [ ] creating custom promises
 - [ ] **APIs**
+  - [ ] **using fetch to send network requests**
   - [ ] (API keys)
   - [ ] **JSON format**
 - [ ] issue / bug trackers
@@ -26,21 +27,24 @@
 # chapter 2
 
 - [ ] npm packages and _package.json_
+  - [ ] `npm install`
+  - [ ] `npm run`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
   - [ ] **header entries**
   - [ ] **body**
-- [ ] use cases of express.js: _rendering HTML on the backend_ / **providing an API**
+  - [ ] postman
 - [ ] **express.js**
+  - [ ] use cases of express.js: _rendering HTML on the backend_ / **providing an API**
   - [ ] **responding to requests**
-  - [ ] types of responses
+  - [ ] **types of responses**
     - [ ] serving static files (HTML, CSS, images, ...)
-    - [ ] rendering HTML templates
+    - [ ] rendering templates (e.g. ejs)
     - [ ] **sending JSON**
   - [ ] **routing**
   - [ ] **handling different methods (_GET_, _POST_, ...)**
   - [ ] **REST APIs**
-- [ ] **handling form submits from JavaScript (_.preventDefault()_)**
+- [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
 - [ ] JavaScript modules and `import` / `export`
 - [ ] (TypeScript)

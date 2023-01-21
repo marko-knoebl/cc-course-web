@@ -17,3 +17,5 @@
 - 2023-01-12: callbacks, higher-order functions ("Hops and Hofs")
 - 2023-01-14: HTTP, APIs, fetch and asynchronous code ("Ask Nasa")
 - 2023-01-17: issue trackers, (branches)
+- 2023-01-19: teamwork (weather)
+- 2023-01-21: presentations, intro to _express_
