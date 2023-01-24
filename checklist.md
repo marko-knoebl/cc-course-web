@@ -35,6 +35,7 @@
   - [ ] **methods: _GET_, _POST_, ...**
   - [ ] **header entries**
   - [ ] **body**
+  - [ ] **URLs and query strings**
   - [ ] postman
 - [ ] **express.js**
   - [ ] use cases of express.js: _rendering HTML on the backend_ / **providing an API**
@@ -45,9 +46,12 @@
     - [ ] **sending JSON**
   - [ ] **routing**
   - [ ] **handling different methods (_GET_, _POST_, ...)**
+  - [ ] **handling URL parameters**
+  - [ ] **parsing the request body**
   - [ ] **REST APIs**
   - [ ] CORS
 - [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
+- [ ] deployment / hosting
 
 # extra topics
 

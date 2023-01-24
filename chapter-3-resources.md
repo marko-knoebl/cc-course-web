@@ -1,0 +1,2 @@
+- [https://beta.reactjs.org/](beta.reactjs.org): next version React documentation, very high quality
+- [E-Book: 12 React Exercises for Beginners](https://app.gumroad.com/d/a5b9f8b836a88e27d4241a526e1ff69d)

@@ -19,4 +19,5 @@
 - 2023-01-17: issue trackers, (branches)
 - 2023-01-19: teamwork (weather)
 - 2023-01-21: presentations, intro to _express_
-- 2023-01-23: "abandoned packages"
+- 2023-01-24: express: get requests ("abandoned packages")
+- 2023-01-26: express: other requests, payloads ("package manager API")
