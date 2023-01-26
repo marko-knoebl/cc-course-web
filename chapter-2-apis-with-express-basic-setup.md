@@ -46,9 +46,11 @@ npm run dev
 npm run start
 ```
 
-## set up minimal server
+## set up a minimal server
 
 ```js
+// server.js
+
 const express = require("express");
 
 const app = express();
