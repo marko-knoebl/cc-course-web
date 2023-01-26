@@ -53,6 +53,14 @@
 - [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
 - [ ] deployment / hosting
 
+# chapter 3
+
+- [ ] react router
+
+# chapter 4
+
+- [ ] basic regex (e.g. for searches)
+
 # extra topics
 
 - [ ] CSS
