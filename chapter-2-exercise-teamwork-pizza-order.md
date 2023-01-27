@@ -18,8 +18,6 @@ For this task, you can ignore the tasks "Pizza list UI" and "Pizza order UX" - o
 
 ## Added tasks / requirements
 
-Instead of `require`, use `import` and `export` in all your JavaScript (do your own research on how to use them in node)
-
 Work with GitHub issues to track your progress in this task
 
 Implement at least some changes via _branches_
@@ -46,5 +44,13 @@ implement more endpoints:
 - `/api/pizza-search?avoid-allergen-by-name=gluten`
 - `/api/order-suggestion?max-budget=60` (suggest an array of "random" pizzas to order based on a given maximum budget (e.g. 60€))
 - ... (come up with your own ideas)
+
+---
+
+Instead of `require`, use the more modern `import` and `export` in your code (do your own research on how to use them in node)
+
+Note: your team will need at least node version 13 to use `import` and `export`
+
+---
 
 in your presentation, tell us a little about HTTP and REST APIs
