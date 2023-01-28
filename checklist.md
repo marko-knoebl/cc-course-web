@@ -47,6 +47,8 @@
   - [ ] **routing**
   - [ ] **handling different methods (_GET_, _POST_, ...)**
   - [ ] **handling URL parameters**
+    - [ ] **/pizzas/1**
+    - [ ] **/pizzas?maxPrice=14**
   - [ ] **parsing the request body**
   - [ ] **REST APIs**
   - [ ] CORS

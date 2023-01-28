@@ -24,3 +24,7 @@ how node projects operate on glitch.com:
 - code can be deployed via GitHub or written in the browser
 - glitch will execute `npm run start` to run the code
 - glitch will publish output from port _3000_
+
+## Example project
+
+https://github.com/marko-knoebl/express-api-hello-world
