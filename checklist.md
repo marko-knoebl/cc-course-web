@@ -22,18 +22,16 @@
   - [ ] (API keys)
   - [ ] **JSON format**
 - [ ] issue / bug trackers
-- [ ] git branches
 
 # chapter 2
 
 - [ ] npm packages and _package.json_
   - [ ] `npm install`
   - [ ] `npm run`
-- [ ] JavaScript modules and `import` / `export`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
-  - [ ] **header entries**
+  - [ ] header entries
   - [ ] **body**
   - [ ] **URLs and query strings**
   - [ ] postman
@@ -54,16 +52,74 @@
   - [ ] CORS
 - [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
 - [ ] deployment / hosting
+- [ ] git branches
 
 # chapter 3
 
+- [ ] use cases of React
+- [ ] **JavaScript basics for React**
+  - [ ] **JavaScript modules and `import` / `export`**
+  - [ ] **immutability / data management without mutations**
+    - [ ] **updating properties of objects**
+    - [ ] **adding properties to objects**
+    - [ ] **adding elements to arrays (create)**
+    - [ ] **replacing elements in arrays (update)**
+    - [ ] **removing elements from arrays (delete)**
+  - [ ] **destructuring assignment with arrays and objects**
+- [ ] **state**
+  - [ ] **using the _state hook_ (_useState_)**
+  - [ ] **minimal state and derived values**
+  - [ ] **input state**
+    - [ ] **connecting input values to state with _value_ and _onChange_**
+    - [ ] **handling various input types**
+    - [ ] handling numeric inputs
+- [ ] **JSX**
+  - [ ] **_className_**
+  - [ ] the _style_ property in JSX
+  - [ ] whitespace in HTML vs whitespace in JSX
+  - [ ] escaping characters like _\<_, _\&_, _\>_
+  - [ ] comments
+  - [ ] **if / else**
+    - [ ] the operator `&&` in JS and JSX
+  - [ ] **repeating elements**
+    - [ ] **the _key_ property**
+  - [ ] **adding event handlers in JSX**
+    - [ ] **accessing the event object**
+    - [ ] **`onClick={handleEvent}` (do) vs `onClick={handleEvent()}` (don't)**
+    - [ ] **`preventDefault`**
+- [ ] **development environment**
+  - [ ] developing with node.js and npm
+  - [ ] initializing a React project (e.g. via _create-react-app_)
+  - [ ] **_React Developer Tools_ browser plugin**
+- [ ] **components**
+  - [ ] **defining components as functions**
+  - [ ] **sharing data between components**
+  - [ ] overview of existing component libraries
+  - [ ] **props in custom components**
+  - [ ] **events in custom components**
+  - [ ] passing content to components
+- [ ] **hooks**
+- [ ] querying APIs
+  - [ ] network requests in JavaScript (_fetch_, _async_/_await_)
+  - [ ] **effect hook**
+  - [ ] API query libraries for React: e.g. _react-query_
 - [ ] react router
+  - [ ] defining routes
+  - [ ] links
+  - [ ] route parameters
 
 # chapter 4
 
-- [ ] basic regex (e.g. for searches)
+- [ ] **basic regex (e.g. for searches)**
 
-# extra topics
+## extras
 
-- [ ] CSS
 - [ ] TypeScript
+  - [ ] type declarations
+  - [ ] primitive types, array types, object types
+  - [ ] any
+  - [ ] type aliases and interfaces basics
+  - [ ] function signatures and function types
+  - [ ] using (pre-existing) generics
+- [ ] CSS
+- [ ] testing
