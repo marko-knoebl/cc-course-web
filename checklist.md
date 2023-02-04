@@ -51,6 +51,7 @@
   - [ ] **REST APIs**
   - [ ] CORS
 - [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
+- [ ] reading writing files in node
 - [ ] deployment / hosting
 - [ ] git branches
 
@@ -76,11 +77,7 @@
 - [ ] **JSX**
   - [ ] **_className_**
   - [ ] the _style_ property in JSX
-  - [ ] whitespace in HTML vs whitespace in JSX
-  - [ ] escaping characters like _\<_, _\&_, _\>_
-  - [ ] comments
   - [ ] **if / else**
-    - [ ] the operator `&&` in JS and JSX
   - [ ] **repeating elements**
     - [ ] **the _key_ property**
   - [ ] **adding event handlers in JSX**
@@ -88,19 +85,16 @@
     - [ ] **`onClick={handleEvent}` (do) vs `onClick={handleEvent()}` (don't)**
     - [ ] **`preventDefault`**
 - [ ] **development environment**
-  - [ ] developing with node.js and npm
   - [ ] initializing a React project (e.g. via _create-react-app_)
   - [ ] **_React Developer Tools_ browser plugin**
 - [ ] **components**
-  - [ ] **defining components as functions**
   - [ ] **sharing data between components**
-  - [ ] overview of existing component libraries
+  - [ ] component libraries
   - [ ] **props in custom components**
   - [ ] **events in custom components**
   - [ ] passing content to components
 - [ ] **hooks**
-- [ ] querying APIs
-  - [ ] network requests in JavaScript (_fetch_, _async_/_await_)
+- [ ] **querying APIs**
   - [ ] **effect hook**
   - [ ] API query libraries for React: e.g. _react-query_
 - [ ] react router
@@ -110,6 +104,13 @@
 
 # chapter 4
 
+- [ ] database basics
+- [ ] **mongoDB operations**
+  - [ ] **reading records**
+  - [ ] **creating records**
+  - [ ] **updating records**
+  - [ ] **deleting records**
+- [ ] **mongoose**
 - [ ] **basic regex (e.g. for searches)**
 
 ## extras
