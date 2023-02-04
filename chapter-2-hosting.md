@@ -24,8 +24,9 @@ how node projects operate on glitch.com:
 - code can be deployed via GitHub or written in the browser
 - glitch will execute `npm run start` to run the code
 - glitch will publish output from port _3000_
+- the default node version on glitch is _10_ - to use a newer version, specify e.g. `"engines": { "node": ">=14.0.0" }` in _package.json_
 
-### Notes
+### Note: repository must be public
 
 You cannot directly publish on glitch from a _private_ / _restricted_ repository
 
