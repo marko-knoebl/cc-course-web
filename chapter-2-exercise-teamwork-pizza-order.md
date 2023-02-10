@@ -34,6 +34,7 @@ To learn more about creating APIs, implement **all** of these endpoints:
 - `/api/orders/1` GET
 - `/api/orders` POST
 - `/api/orders/1` PUT
+- `/api/orders/1` PATCH
 - `/api/orders/1` DELETE
 
 ## Optional tasks
