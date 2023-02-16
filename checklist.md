@@ -93,14 +93,10 @@
   - [ ] **props in custom components**
   - [ ] **events in custom components**
   - [ ] passing content to components
-- [ ] **hooks**
+- [ ] hooks
 - [ ] **querying APIs**
   - [ ] **effect hook**
   - [ ] API query libraries for React: e.g. _react-query_
-- [ ] react router
-  - [ ] defining routes
-  - [ ] links
-  - [ ] route parameters
 
 # chapter 4
 
@@ -112,6 +108,13 @@
   - [ ] **deleting records**
 - [ ] **mongoose**
 - [ ] **basic regex (e.g. for searches)**
+
+# chapter 5
+
+- [ ] **React router**
+  - [ ] **defining routes**
+  - [ ] **links**
+  - [ ] **route parameters**
 
 ## extras
 
