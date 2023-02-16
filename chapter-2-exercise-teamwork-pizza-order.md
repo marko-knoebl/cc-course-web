@@ -26,10 +26,11 @@ To learn more about creating APIs, implement **all** of these endpoints:
 
 - `/api/pizzas`
 - `/api/pizzas/1`
-- `/api/pizza-search?name=marinara`
-- `/api/pizza-search?avoid-allergen=1`
+- `/api/pizzas?name=marinara`
+- `/api/pizzas?avoid-allergen=A`
+- `/api/pizzas?sort-asc=price`
 - `/api/allergens`
-- `/api/allergens/1`
+- `/api/allergens/A`
 - `/api/orders` GET
 - `/api/orders/1` GET
 - `/api/orders` POST
@@ -41,8 +42,7 @@ To learn more about creating APIs, implement **all** of these endpoints:
 
 implement more endpoints:
 
-- `/api/pizza-search?max-price=14&avoid-allergen=1`
-- `/api/pizza-search?avoid-allergen-by-name=gluten`
+- `/api/pizzas?avoid-allergen-by-name=gluten`
 - `/api/order-suggestion?max-budget=60` (suggest an array of "random" pizzas to order based on a given maximum budget (e.g. 60€))
 - ... (come up with your own ideas)
 
