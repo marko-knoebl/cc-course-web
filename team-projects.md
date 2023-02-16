@@ -13,3 +13,8 @@
 - Manuel, Melina, Adrian:
   - [repository](https://github.com/MelinaPr/publicpizza)
   - [depolyment on glitch.com](https://onyx-gamy-flamingo.glitch.me/pizza/list/)
+
+## other projects
+
+- mini calendar: [repository](https://github.com/marko-knoebl/cc-mini-calendar)
+- component library: [repository](https://github.com/marko-knoebl/cc-react-components)
