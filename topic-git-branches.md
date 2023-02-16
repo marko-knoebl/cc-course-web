@@ -50,4 +50,4 @@ git merge main
 
 on GitHub, go to the feature branch and create a _pull request_
 
-Another developer should review the pull request - they could suggest changes or approve it right away
+Other developers could review the pull request - they could suggest changes or approve it
