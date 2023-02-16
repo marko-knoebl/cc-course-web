@@ -26,6 +26,9 @@
 
 # chapter 3
 
-- 2023-02-07: React: JSX, state
-- 2023-02-09: React: JSX, state
-- 2023-02-11: React: JSX, state, project setup (todo list exercise)
+- 2023-02-07: JSX, state
+- 2023-02-09: JSX, state
+- 2023-02-11: JSX, state, project setup (create-react-app / vite), mini calendar, component props
+- 2023-02-14: component events, teamwork: component library with events, (notes app)
+- 2023-02-16: component events, (exchange rates app)
+- 2023-02-18: recap, API queries in REact, team project: pizza app
