@@ -1,55 +1,44 @@
-# APIs and synchronizing with effects
+# Ignoring older requests
 
-https://beta.reactjs.org/learn/synchronizing-with-effects
+example: user is typing, for each change a new request is triggered:
 
-# Example: Manually triggering loading
+_f_  
+_fo_  
+_foo_
+
+problem: the responses may be received out of order
+
+solution: cancel / ignore older requests
+
+# Example: ignoring older requests (by using a "cleanup function")
 
 ```js
-const [searchTerm, setSearchTerm] = useState("");
+const [searchTerm, setSearchTerm] = useState("foo");
 
 // status could be "loading" / "success" / "error"
 const [status, setStatus] = useState("loading");
-const [data, setData] = useState(null);
-
-// this function can be connected to a "search" button
-async function loadData() {
-  setStatus("loading");
-  setData(null);
-  const url = `/api/search/${searchTerm}`;
-  try {
-    const newData = await fetchJson(url);
-    setStatus("success");
-    setData(newData);
-  } catch {
-    setStatus("error");
-    setData(null);
-  }
-}
-```
-
-# Example: automatically triggering loading when some state changes
-
-```js
-const [searchTerm, setSearchTerm] = useState("");
-
-// status could be "loading" / "success" / "error"
-const [status, setStatus] = useState("loading");
-const [data, setData] = useState(null);
+const [data, setData] = useState < any > null;
 
 useEffect(() => {
+  let ignore = false;
   async function loadData() {
     setStatus("loading");
     setData(null);
     const url = `/api/search/${searchTerm}`;
     try {
       const data = await fetchJson(url);
-      setStatus("success");
-      setData(data);
+      if (!ignore) {
+        setStatus("success");
+        setData(data);
+      }
     } catch {
       setStatus("error");
       setData(null);
     }
   }
   loadData();
+  return () => {
+    ignore = true;
+  };
 }, [searchTerm]);
 ```
