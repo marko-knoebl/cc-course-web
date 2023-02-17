@@ -1,4 +1,4 @@
-# Ignoring older requests
+## Ignoring older requests
 
 example: user is typing, for each change a new request is triggered:
 
@@ -10,7 +10,7 @@ problem: the responses may be received out of order
 
 solution: cancel / ignore older requests
 
-# Example: ignoring older requests (by using a "cleanup function")
+## Example: ignoring older requests (by using a "cleanup function")
 
 ```js
 const [searchTerm, setSearchTerm] = useState("foo");
