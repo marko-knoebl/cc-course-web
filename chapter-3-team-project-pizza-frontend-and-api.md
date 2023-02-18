@@ -4,7 +4,7 @@
 
 Main project: Create a website for searching for and ordering pizzas
 
-Extra project: Create a website for the owners of the pizza place - for managing pizzas and orders
+Extra project: Create a website for the owners of the pizza place - for managing pizzas and orders - as a separate React project
 
 The projects should connect to an existing back-end / API
 
@@ -25,7 +25,7 @@ The projects should connect to an existing back-end / API
 
 <!-- sep -->
 
-- managing pizzas and orders
+- optional: managing pizzas and orders
   - managing orders
     - possibility to see all orders
     - possibility to only see incomplete orders
@@ -41,6 +41,8 @@ The projects should connect to an existing back-end / API
 Don't use any component libraries - create all UI components by yourselves
 
 Those students who are more familiar with APIs and _fetch_ should take care of these aspects of the application
+
+The website(s) should only consist of a single page - e.g. the list of pizzas and the order previw / form should all be on one page; in chapter 5 you will learn how to show different "pages" via the "React Router"
 
 ## API and hosting
 
