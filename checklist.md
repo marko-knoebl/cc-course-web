@@ -21,7 +21,6 @@
   - [ ] **using fetch to send network requests**
   - [ ] (API keys)
   - [ ] **JSON format**
-- [ ] issue / bug trackers
 
 # chapter 2
 
@@ -50,10 +49,9 @@
   - [ ] **parsing the request body**
   - [ ] **REST APIs**
   - [ ] CORS
-- [ ] **handling form submits in the browser in JavaScript (_.preventDefault()_)**
-- [ ] reading writing files in node
+- [ ] **handling form submissions in the browser in JavaScript (_.preventDefault()_)**
+- [ ] reading and writing files in node
 - [ ] deployment / hosting
-- [ ] git branches
 
 # chapter 3
 
@@ -97,26 +95,40 @@
 - [ ] **querying APIs**
   - [ ] **effect hook**
   - [ ] API query libraries for React: e.g. _react-query_
-
-# chapter 4
-
-- [ ] database basics
-- [ ] **mongoDB operations**
-  - [ ] **reading records**
-  - [ ] **creating records**
-  - [ ] **updating records**
-  - [ ] **deleting records**
-- [ ] **mongoose**
-- [ ] **basic regex (e.g. for searches)**
-
-# chapter 5
-
 - [ ] **React router**
   - [ ] **defining routes**
   - [ ] **links**
   - [ ] **route parameters**
 
-## extras
+# chapter 4
+
+- [ ] database basics
+- [ ] setting up mongoDB
+- [ ] **_databases_, _collections_ and _documents_**
+- [ ] using mongosh
+- [ ] (using the _mongodb_ package)
+- [ ] mongoDB compass
+- [ ] **mongoDB operations**
+  - [ ] **reading records**
+    - [ ] **finding by ID**
+    - [ ] **finding by attributes**
+    - [ ] **query operators: $lt, $gt, $and, $or, $regex ...**
+  - [ ] **creating records**
+  - [ ] **updating records**
+  - [ ] **deleting records**
+- [ ] **using mongoose** for managing mondoDB databases
+- [ ] **mongoose schema definition**
+  - [ ] **default values**
+- [ ] indexes
+
+# chapter 5
+
+# various
+
+- [ ] issue / bug trackers
+- [ ] git branches
+
+# extras
 
 - [ ] TypeScript
   - [ ] type declarations
