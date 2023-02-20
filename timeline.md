@@ -1,10 +1,21 @@
 # overview
 
-- chapter 1: week start 2023-01-09
-- chapter 2: week start 2023-01-23
-- chapter 3: week start 2023-02-06
-- chapter 4: week start 2023-03-06?
-- chapter 5/1: week start 2023-03-27?
+total duration: 15 weeks
+
+planned schedule (subject to change):
+
+| start | January batch                                             | February batch                             |
+| ----- | --------------------------------------------------------- | ------------------------------------------ |
+| 01-09 | JavaScript features, fetch (ch 1)                         |                                            |
+| 01-23 | express (ch 2)                                            |                                            |
+| 02-06 | React (ch 3)                                              | React (ch 3)                               |
+| 02-27 | express / extra topics (e.g. TS, CSS, testing) / workbook | express (ch 2)                             |
+| 03-13 | mongoDB (ch 4)                                            | mongoDB (ch 4)                             |
+| 03-27 | exercises (ch 5)                                          | JavaScript basics, fetch (ch 1) / workbook |
+| 04-10 | exercises (ch 5) / extra topics                           | exercises / recap / extra topics           |
+| 04-24 | PAs                                                       | exercises / recap / extra topics           |
+| 05-08 |                                                           | exercises / recap / extra topics           |
+| 05-16 |                                                           | PAs                                        |
 
 # chapter 1
 
@@ -31,4 +42,6 @@
 - 2023-02-11: JSX, state, project setup (create-react-app / vite), mini calendar, component props
 - 2023-02-14: component events, teamwork: component library with events, (notes app)
 - 2023-02-16: component events, (exchange rates app)
-- 2023-02-18: recap, API queries in REact, team project: pizza app
+- 2023-02-18: recap, API queries in React, team project: pizza app
+- 2023-02-21: team project: pizza app
+- 2023-02-23: team project: pizza app
