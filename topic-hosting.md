@@ -10,10 +10,17 @@ possibilities for hosting:
 
 examples:
 
-- **static hosting**: GitHub pages, Amazon S3, Microsoft Azure
+- **static hosting**: GitHub pages, Amazon S3, Microsoft Azure, netlify
 - **serverless** / **function as a service**: Amazon Lambda, Azure Functions, Google Cloud Functions
 - **language environment** / **platform as a service**: Google App Engine, Azure Web Apps, glitch.com
 - **Docker**: Azure ACI, Amazon ECS
+
+## Free options
+
+- static hosting
+  - GitHub pages
+  - netlify (quick drag & drop deployment via _netlify drop_)
+- platform as a service: glitch.com
 
 ## Deployment on glitch.com
 
@@ -38,6 +45,6 @@ If you are working on a repository which is hosted on _CodeCoolGlobal_, you woul
    - you can add a new remote (e.g. called "origin2") and set it to something like _git@github.com:marko-knoebl/foo.git\_
 3. push to the second remote via `git push origin2 main` or similar
 
-## Example project
+### Example project
 
 https://github.com/marko-knoebl/express-api-hello-world
