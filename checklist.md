@@ -15,7 +15,7 @@
     - [ ] **`sort`**
 - [ ] **asynchronous code**
   - [ ] **asynchronous code with `async` / `await`**
-  - [ ] **asynchronous code with `.then`**
+  - [ ] asynchronous code with `.then`
   - [ ] creating custom promises
 - [ ] **APIs**
   - [ ] **using fetch to send network requests**
@@ -27,6 +27,7 @@
 - [ ] npm packages and _package.json_
   - [ ] `npm install`
   - [ ] `npm run`
+  - [ ] `"type": "module"`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
@@ -45,12 +46,13 @@
   - [ ] **handling different methods (_GET_, _POST_, ...)**
   - [ ] **handling URL parameters**
     - [ ] **/pizzas/1**
-    - [ ] **/pizzas?maxPrice=14**
+    - [ ] **/pizzas?max-price=14&sort-by=name**
   - [ ] **parsing the request body**
   - [ ] **REST APIs**
   - [ ] CORS
+  - [ ] **middleware** (actually part of chapter 5)
 - [ ] **handling form submissions in the browser in JavaScript (_.preventDefault()_)**
-- [ ] reading and writing files in node
+- [ ] reading and writing files in node (_fs_ module)
 - [ ] deployment / hosting
 
 # chapter 3
@@ -95,13 +97,14 @@
 - [ ] **querying APIs**
   - [ ] **effect hook**
   - [ ] API query libraries for React: e.g. _react-query_
-- [ ] **React router**
+- [ ] **React router** (actually part of chapter 5)
   - [ ] **defining routes**
   - [ ] **links**
   - [ ] **route parameters**
 
 # chapter 4
 
+- [ ] configuration via _.env_
 - [ ] database basics
 - [ ] setting up mongoDB
 - [ ] **_databases_, _collections_ and _documents_**
@@ -122,6 +125,10 @@
 - [ ] indexes
 
 # chapter 5
+
+- **React router**
+- **express middleware**
+- MERN exercises
 
 # various
 
