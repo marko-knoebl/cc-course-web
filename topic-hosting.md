@@ -4,14 +4,12 @@ possibilities for hosting:
 
 - static hosting: static files (e.g. HTML, CSS, images) - cheap
 - server-side execution (code runs on the server)
-  - "serverless" / "function as a service"
-  - specific language environment: e.g. provides a _node_ environment or a _python_ environment
+  - specific language environment / platform as a service: e.g. provides a _node_ environment or a _python_ environment
   - virtual machine (e.g. via Docker): includes an entire operating system
 
 examples:
 
 - **static hosting**: GitHub pages, Amazon S3, Microsoft Azure, netlify
-- **serverless** / **function as a service**: Amazon Lambda, Azure Functions, Google Cloud Functions
 - **language environment** / **platform as a service**: Google App Engine, Azure Web Apps, glitch.com
 - **Docker**: Azure ACI, Amazon ECS
 
@@ -20,7 +18,7 @@ examples:
 - static hosting
   - GitHub pages
   - netlify (quick drag & drop deployment via _netlify drop_)
-- platform as a service: glitch.com
+- platform as a service (node.js): glitch.com
 
 ## Deployment on glitch.com
 
