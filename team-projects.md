@@ -18,7 +18,7 @@
 
 - Adrian, Hans, Theresa:
   - [repository](https://github.com/TheresaGri/PizzaApp)
-  - [deployment of the customer interface](https://celebrated-lebkuchen-e21376.netlify.app/)
+  - [deployment of the customer interface](https://wonderful-phoenix-d2ec56.netlify.app/)
   - [deployment of the owner interface](https://fabulous-smakager-dbab43.netlify.app/) (password: hello)
 - Kata, Manuel, Melina, Viki:
   - [repository](https://github.com/Kenavm/pizza-app)
