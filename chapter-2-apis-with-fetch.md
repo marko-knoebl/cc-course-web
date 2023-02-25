@@ -8,3 +8,5 @@ const res = await fetch("https://jsonplaceholder.typicode.com/users", {
   headers: { "Content-Type": "application/json" },
 });
 ```
+
+note: the method (e.g. POST) **must** be uppercase

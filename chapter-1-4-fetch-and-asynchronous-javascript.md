@@ -24,3 +24,5 @@ const res = await fetch("https://jsonplaceholder.typicode.com/todos", {
   },
 });
 ```
+
+note: the method (e.g. POST) **must** be uppercase

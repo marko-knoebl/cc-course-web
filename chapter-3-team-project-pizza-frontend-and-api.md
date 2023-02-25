@@ -2,9 +2,9 @@
 
 ## Tasks
 
-Main project: Create a website for searching for and ordering pizzas
+Main project: Create a React web app for searching for and ordering pizzas
 
-Extra project: Create a website for the owners of the pizza place - for managing pizzas and orders - as a separate React project
+Extra project: Create a React web app for the owners of the pizza place - for managing pizzas and orders - as a separate React project
 
 The projects should connect to an existing back-end / API
 
