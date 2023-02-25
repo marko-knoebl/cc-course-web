@@ -29,6 +29,7 @@
 - ~~Why is it recommend for a developer to use the http methods `get`, `put`, `delete` ?~~
 - In a REST API, what are the HTTP methods _GET_, _PUT_ and _DELETE_ used for? (replacement question for the question above)
 - ~~How does a `POST` request look like when it is made from a web browser (on the front end written) ?~~
+- How do you make a POST request from JavaScript? (replacement question for the question above)
 - What is an API?
 - What is REST API?
 - What is JSON and how do we use it?
@@ -111,7 +112,7 @@ X
 
 - What is a database schema ?
 - ~~Why is the `id` unique in a database ?~~
-- What are the advatanges & disadvatages of using `lean()` function in a mongo query ?
+- ~~What are the advatanges & disadvatages of using `lean()` function in a mongo query ?~~
 - Write the code to store the object `{name: "Andrew", age: 10}` to a mongo database. You can ignore the part of connection parameters.
 - Write the code to delete from a mongo database all employees that are over 18 years. The scheme for an employee is `{name: string, age: int}`. You can ignore the part of connection parameters.
 - Write the code to display in the console from a mongo database the employees who are over 18 years. The scheme for an employee is `{name: string, age: int}`. You can ignore the part of connection parameters.
