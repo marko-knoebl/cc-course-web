@@ -59,5 +59,5 @@ app.get("/", (req, res) => {
   res.json({ message: "Hello, world!" });
 });
 
-app.listen(9000);
+app.listen(3000);
 ```
