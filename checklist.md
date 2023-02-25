@@ -25,9 +25,10 @@
 # chapter 2
 
 - [ ] npm packages and _package.json_
+  - [ ] `npm install foopackage`
   - [ ] `npm install`
   - [ ] `npm run`
-  - [ ] `"type": "module"`
+  - [ ] `import` vs `require`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
@@ -85,7 +86,7 @@
     - [ ] **`onClick={handleEvent}` (do) vs `onClick={handleEvent()}` (don't)**
     - [ ] **`preventDefault`**
 - [ ] **development environment**
-  - [ ] initializing a React project (e.g. via _create-react-app_)
+  - [ ] initializing a React project (e.g. via _vite_)
   - [ ] **_React Developer Tools_ browser plugin**
 - [ ] **components**
   - [ ] **sharing data between components**
@@ -111,6 +112,7 @@
 - [ ] using mongosh
 - [ ] (using the _mongodb_ package)
 - [ ] mongoDB compass
+- [ ] mongoDB Atlas
 - [ ] **mongoDB operations**
   - [ ] **reading records**
     - [ ] **finding by ID**
@@ -146,3 +148,5 @@
   - [ ] using (pre-existing) generics
 - [ ] CSS
 - [ ] testing
+- [ ] database indexes
+- [ ] authentication
