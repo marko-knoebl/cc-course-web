@@ -1,8 +1,27 @@
 # Linear calendar
 
+possible user interface: [left side on this screenshot](https://images.idgesg.net/images/article/2020/05/01-android-calendar-apps-google-calendar-100840921-large.jpg)
+
+calendar should have events with title, date & time, category
+
+events should support creating, editing, deleting
+
+main task:
+
+- **create an API**
+
+extra tasks:
+
+- send error codes in HTTP (e.g. 404, ...)
+- create a UI with React
+- use TypeScript in the React project
+- write tests for the functionality
+  - test the API (by sending HTTP requests and checking the responses - e.g. via _jest_ or _node:test_)
+  - test the UI (e.g. via _cypress_)
+
 ## Data structure
 
-minimum data for an event:
+minimum data for an event (feel free to add more data):
 
 - id
 - name / title
@@ -38,7 +57,7 @@ There should be one category named _default_ which cannot be deleted
 
 ## optional: validation / errors
 
-return some errors (with status codes) for invalid data / invalid queries:
+return some errors (with status codes) for invalid data / invalid queries
 
 e.g.:
 
