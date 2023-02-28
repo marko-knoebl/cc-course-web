@@ -75,3 +75,8 @@ when trying to delete the _default_ category - which cannot be deleted: _DELETE 
 - calendar entries are shown in different colors based on their categories
 - users can add / edit / delete available calendar categories
 - calendar entries can be shown / hidden based on their category
+
+## Background materials
+
+- video: TypeScript for React: https://www.youtube.com/watch?v=aC2uvTXcNEU
+- E2E testing with cypress: https://docs.cypress.io/guides/overview/why-cypress
