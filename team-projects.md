@@ -18,11 +18,11 @@
 
 - Adrian, Hans, Theresa:
   - [repository](https://github.com/TheresaGri/PizzaApp)
-  - [deployment of the customer interface](https://wonderful-phoenix-d2ec56.netlify.app/)
+  - [deployment of the customer interface](https://jocular-gelato-a4332b.netlify.app/)
   - [deployment of the owner interface](https://fabulous-smakager-dbab43.netlify.app/) (password: hello)
 - Kata, Manuel, Melina, Viki:
   - [repository](https://github.com/Kenavm/pizza-app)
-  - [deployment](https://prismatic-daffodil-cc4a05.netlify.app/)
+  - [deployment](https://legendary-souffle-812319.netlify.app/)
 
 ## other projects
 
