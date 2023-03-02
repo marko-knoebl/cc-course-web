@@ -27,14 +27,9 @@ see separate file
 - users can "like" posts - and remove the "like" again
 - users can view the posts sorted by "most recent" or "most liked"
 
-## banking app
+## finance manager
 
-- users can configure their account with an initial balance (e.g. 0)
-- users can add transactions with an amount (positive or negative), a date and a description
-- users can see a list of transactions
-- users can see details for a specific month (e.g. January 2023): total expenses, total income, all transactions
-- users can edit and remove transaction
-- ...
+see separate file
 
 ## tic-tac-toe game
 
