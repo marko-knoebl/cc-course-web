@@ -12,7 +12,7 @@ Try to split your tasks inside your team so every team member has to do a variet
 
 the important part of this project is the API, not the UI
 
-We will learn more about creating UIs when we get to React
+(advanced UIs are part of the topic "React")
 
 For this task, you can ignore the tasks "Pizza list UI" and "Pizza order UX" - or just do a very basic implementation of them
 
@@ -22,17 +22,20 @@ Work with GitHub issues to track your progress in this task
 
 Implement at least some changes via _branches_
 
-To learn more about creating APIs, implement **all** of these endpoints:
+Create a deployment of your API - e.g. on _glitch.com_
+
+To learn more about creating APIs, support **all** of these requests:
 
 - `/api/pizzas`
 - `/api/pizzas/1`
 - `/api/pizzas?name=marinara`
-- `/api/pizzas?avoid-allergen=A`
-- `/api/pizzas?sort-asc=price`
+- `/api/pizzas?avoid-allergens=1,4,7`
+- `/api/pizzas?sort-ascending=price`
+- `/api/pizzas?avoid-allergens=1&sort-ascending=price`
 - `/api/allergens`
-- `/api/allergens/A`
-- `/api/orders` GET
-- `/api/orders/1` GET
+- `/api/allergens/1`
+- `/api/orders`
+- `/api/orders/1`
 - `/api/orders` POST
 - `/api/orders/1` PUT
 - `/api/orders/1` PATCH
@@ -40,9 +43,12 @@ To learn more about creating APIs, implement **all** of these endpoints:
 
 ## Optional tasks
 
-implement more endpoints:
+implement more endpoints, e.g.:
 
-- `/api/pizzas?avoid-allergen-by-name=gluten`
+- `/api/pizzas` POST
+- `/api/pizzas/1` DELETE
+- `/api/pizzas/1` PATCH
+- `/api/pizzas?avoid-allergens-by-name=gluten,soy`
 - `/api/order-suggestion?max-budget=60` (suggest an array of "random" pizzas to order based on a given maximum budget (e.g. 60€))
 - ... (come up with your own ideas)
 
