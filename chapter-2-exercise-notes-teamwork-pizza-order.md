@@ -22,7 +22,7 @@ Work with GitHub issues to track your progress in this task
 
 Implement at least some changes via _branches_
 
-Create a deployment of your API - e.g. on _glitch.com_
+Create a deployment of your API - e.g. on _glitch.com_ (see _topic-hosting.md_)
 
 To learn more about creating APIs, support **all** of these requests:
 
