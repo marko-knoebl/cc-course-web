@@ -17,7 +17,7 @@ planned schedule (subject to change):
 | 05-08 |                                                           | exercises / recap / extra topics           |
 | 05-16 |                                                           | PAs                                        |
 
-# chapter 1
+# starting 01-10
 
 - 2023-01-10: map, filter, reduce, spread ("hECMAthon")
 - 2023-01-12: callbacks, higher-order functions ("Hops and Hofs")
@@ -26,7 +26,7 @@ planned schedule (subject to change):
 - 2023-01-19: teamwork (weather)
 - 2023-01-21: presentations, intro to _express_
 
-# chapter 2
+# starting 01-24
 
 - 2023-01-24: express: get requests ("abandoned packages")
 - 2023-01-26: express: other requests, payloads ("package manager API")
@@ -35,7 +35,7 @@ planned schedule (subject to change):
 - 2023-02-02: teamwork (pizza API)
 - 2023-02-04: presentations, intro to _React_
 
-# chapter 3
+# starting 02-07
 
 - 2023-02-07: JSX, state
 - 2023-02-09: JSX, state
@@ -45,3 +45,12 @@ planned schedule (subject to change):
 - 2023-02-18: recap, API queries in React, team project: pizza app
 - 2023-02-21: team project: pizza app
 - 2023-02-23: team project: pizza app
+
+# starting 02-28
+
+- 2023-02-28: calendar app (optional: TypeScript); express basics
+- 2023-03-02: calendar app (optional: TypeScript); express basics, HTTP
+- 2023-03-04: calendar app; express basics
+- 2023-03-07: finance app; pizza API
+- 2023-03-09: finance app; pizza API / finance app
+- 2023-03-11: finance app; finance app
