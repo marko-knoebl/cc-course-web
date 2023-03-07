@@ -19,6 +19,10 @@
   - [ ] creating custom promises
 - [ ] **APIs**
   - [ ] **using fetch to send network requests**
+    - [ ] **specifying the URL**
+    - [ ] **specifying the HTTP method**
+    - [ ] **specifying the request body**
+    - [ ] **using `URLSearchParams`** to build a search parameter string
   - [ ] (API keys)
   - [ ] **JSON format**
 
@@ -102,6 +106,8 @@
   - [ ] **defining routes**
   - [ ] **links**
   - [ ] **route parameters**
+    - [ ] **`useParams`**
+    - [ ] **`useSearchParams`**
 
 # chapter 4
 
@@ -117,7 +123,12 @@
   - [ ] **reading records**
     - [ ] **finding by ID**
     - [ ] **finding by attributes**
-    - [ ] **query operators: $lt, $gt, $and, $or, $regex ...**
+    - [ ] **query operators and options**
+      - [ ] **$lt, $gt**
+      - [ ] **$and, $or**
+      - [ ] **$regex**
+      - [ ] **$options**
+      - [ ] ...
   - [ ] **creating records**
   - [ ] **updating records**
   - [ ] **deleting records**
