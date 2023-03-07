@@ -22,9 +22,14 @@
   - [deployment of the owner interface](https://fabulous-smakager-dbab43.netlify.app/) (password: hello)
 - Kata, Manuel, Melina, Viki:
   - [repository](https://github.com/Kenavm/pizza-app)
-  - [deployment](https://legendary-souffle-812319.netlify.app/)
+  - [deployment](https://marvelous-selkie-59e8d4.netlify.app/)
 
 ## other projects
 
 - mini calendar: [repository](https://github.com/marko-knoebl/cc-mini-calendar)
 - component library: [repository](https://github.com/marko-knoebl/cc-react-components)
+
+## project: finance manager (react, express)
+
+- Manuel, Theresa, Adrian, Viki
+- Kata, Melina, Hans
