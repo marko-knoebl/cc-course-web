@@ -32,4 +32,10 @@
 ## project: finance manager (react, express)
 
 - Manuel, Theresa, Adrian, Viki
+  - [repository](https://github.com/TheresaGri/Finance-manager-app)
+  - [front-end deployment](https://master--exquisite-banoffee-217175.netlify.app/)
+  - [back-end deployment](https://defiant-invented-bathtub.glitch.me/api)
 - Kata, Melina, Hans
+  - [repository](https://github.com/MelinaPr/FInance-Manager)
+  - [front-end deployment](https://endurable-speckle-bromine.glitch.me/)
+  - [back-end deployment](https://liberating-scythe-oviraptor.glitch.me/api)
