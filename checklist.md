@@ -55,7 +55,6 @@
   - [ ] **parsing the request body**
   - [ ] **REST APIs**
   - [ ] CORS
-  - [ ] **middleware** (actually part of chapter 5)
 - [ ] **handling form submissions in the browser in JavaScript (_.preventDefault()_)**
 - [ ] reading and writing files in node (_fs_ module)
 - [ ] deployment / hosting
@@ -102,46 +101,46 @@
 - [ ] **querying APIs**
   - [ ] **effect hook**
   - [ ] API query libraries for React: e.g. _react-query_
-- [ ] **React router** (actually part of chapter 5)
-  - [ ] **defining routes**
-  - [ ] **links**
-  - [ ] **route parameters**
-    - [ ] **`useParams`**
-    - [ ] **`useSearchParams`**
 
 # chapter 4
 
-- [ ] configuration via _.env_
 - [ ] database basics
 - [ ] setting up mongoDB
 - [ ] **_databases_, _collections_ and _documents_**
-- [ ] using mongosh
-- [ ] (using the _mongodb_ package)
-- [ ] mongoDB compass
+- [ ] using the _mongodb_ package
 - [ ] mongoDB Atlas
 - [ ] **mongoDB operations**
   - [ ] **reading records**
-    - [ ] **finding by ID**
-    - [ ] **finding by attributes**
+    - [ ] **finding one by ID**
+    - [ ] **finding multiple by fields**
     - [ ] **query operators and options**
       - [ ] **$lt, $gt**
       - [ ] **$and, $or**
       - [ ] **$regex**
       - [ ] **$options**
       - [ ] ...
+    - [ ] **sorting results**
+    - [ ] **pagination with _skip_ and _limit_**
   - [ ] **creating records**
   - [ ] **updating records**
   - [ ] **deleting records**
+- [ ] **working with the _ObjectId_ type**
 - [ ] **using mongoose** for managing mondoDB databases
 - [ ] **mongoose schema definition**
   - [ ] **default values**
-- [ ] indexes
+- [ ] configuration via _.env_
+- [ ] (mongoDB compass)
 
 # chapter 5
 
-- **React router**
-- **express middleware**
-- MERN exercises
+- [ ] **React router**
+  - [ ] **defining routes**
+  - [ ] **links**
+  - [ ] **route parameters**
+    - [ ] **`useParams`**
+    - [ ] **`useSearchParams`**
+- [ ] **express middleware (use)**
+- [ ] MERN exercises
 
 # various
 
@@ -157,7 +156,10 @@
   - [ ] type aliases and interfaces basics
   - [ ] function signatures and function types
   - [ ] using (pre-existing) generics
+- [ ] react-query
 - [ ] CSS
 - [ ] testing
 - [ ] database indexes
+- [ ] database joins
 - [ ] authentication
+- [ ] hardware (processor, RAM, ...)
