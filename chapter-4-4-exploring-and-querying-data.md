@@ -1,6 +1,6 @@
 # Exploring and querying data
 
-in Atlas, click _browser collections_
+in Atlas, click _browse collections_
 
 ## exploring "sample_mflix"
 

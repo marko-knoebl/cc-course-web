@@ -26,3 +26,5 @@ await deleteAllCountries();
 await insertSomeCountries();
 await client.close();
 ```
+
+note: you can get the DB_URL from Atlas: _cloud.mongodb.com > connect > connect your application
