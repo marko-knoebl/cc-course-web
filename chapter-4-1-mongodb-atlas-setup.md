@@ -1,11 +1,13 @@
-# Options
+# MongoDB Atlas setup
+
+## Options
 
 Options to set up and use mongoDB:
 
 - install on your computer (only for development)
 - host on the web - e.g. via atlas (can be used for development and for production)
 
-# MongoDB Atlas setup
+## Setup
 
 follow the guide at: https://journey.study/v2/learn/materials/tutorials/setting-up-atlas.md
 
