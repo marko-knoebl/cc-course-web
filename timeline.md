@@ -15,7 +15,7 @@ planned schedule (subject to change):
 | 04-10 | exercises (ch 5) / extra topics                           | exercises / recap / extra topics           |
 | 04-24 | PAs                                                       | exercises / recap / extra topics           |
 | 05-08 |                                                           | exercises / recap / extra topics           |
-| 05-16 |                                                           | PAs                                        |
+| 05-22 |                                                           | PAs                                        |
 
 # starting 01-10
 
