@@ -22,7 +22,7 @@ you can log the date, IP adress, requested URL, ...
 
 Only log the last 20 requests. Before adding another request to the log, check if there are already 20, and make room by deleting the oldest if necessary
 
-Question (send the answer to Marko in Discord): _teading_, _writing_ and _deleting_ are all asynchronous in mongodb. What problem could happen if two new log events happen at basically the same time?
+Question (send the answer to Marko in Discord): _reading_, _writing_ and _deleting_ are all asynchronous in mongodb. What problem could happen if two new log events happen at basically the same time?
 
 ## Task 3: make access statistics available in the API
 
