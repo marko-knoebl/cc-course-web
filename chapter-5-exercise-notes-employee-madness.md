@@ -9,6 +9,8 @@ the task description and starter code use React routes like these:
 - /create
 - /employees/searchterm
 - /missing
+- /equipment
+- /brands
 
 instead, use React routes like these for improved structure:
 
@@ -26,7 +28,7 @@ instead, use React routes like these for improved structure:
 
 - optional: change the backend code so it uses _import_ / _export_ instead of _require_
 - optional: change the frontend code so it uses _async_ / _await_ instead of _.then_
-- optional: pick clearer instead of _EmployeeList_ and _EmployeeTable_
+- optional: pick clearer names instead of _EmployeeList_ and _EmployeeTable_
 
 ## Changed task: Extend the list with filter features
 
@@ -64,4 +66,4 @@ no task changes
 
 ## Sort by name
 
-no task changes
+this task was already covered by "Extend the list with arrangement features" - there's nothing more to do here :)
