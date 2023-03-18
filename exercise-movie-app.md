@@ -17,6 +17,8 @@ write a node script that can "migrate" / transform data from one database to ano
 
 the script can be named _migrateDb.js_
 
+The source data should be the default movie dataset from _mongoDb cloud_
+
 step 1: migrate movies
 
 only process movies that meet these criteria:
