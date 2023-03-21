@@ -31,17 +31,9 @@ how node projects operate on glitch.com:
 - glitch will publish output from port _3000_
 - the default node version on glitch is _10_ - to use a newer version, specify e.g. `"engines": { "node": ">=14.0.0" }` in _package.json_
 
-### Note: repository must be public
+how to deploy your project via GitHub:
 
-You cannot directly publish on glitch from a _private_ / _restricted_ repository
-
-If you are working on a repository which is hosted on _CodeCoolGlobal_, you would have to "copy" the code to your own repository first:
-
-1. create an empty public repository on GitHub
-2. in your local repository on your computer, add a new _remote_
-   - the default remote is called "origin" and is already set to something like _git@github.com:CodecoolGlobal/foo.git\_
-   - you can add a new remote (e.g. called "origin2") and set it to something like _git@github.com:marko-knoebl/foo.git\_
-3. push to the second remote via `git push origin2 main` or similar
+create a repository that is _public_ and that contains only the backend code (_package.json_ should be in the top level directory of the project) - you may have to create an extra repository just for the deployment
 
 ### Example project
 
