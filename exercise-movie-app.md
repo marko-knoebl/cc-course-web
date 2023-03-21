@@ -108,3 +108,5 @@ instead of displaying everything on one page, use _react router_ to create multi
 For inspiration / React starter code, you can look at _exercise 12_ of the React exercise book ([solution of exercise 12](https://codesandbox.io/s/u5sifc?file=/src/App.jsx))
 
 You _don't_ have to include a movie player - you can just include a placeholder
+
+Some images will not exist - they are probably outdated - you can just show a blank space where the image would be.
