@@ -59,6 +59,8 @@ step 2: migrate comments
 
 Go through all movies in the new database, find associated comments in the old database, and migrate those comments. Keep the same data format in the new database
 
+note: with the options above, you should get 148 films and 2918 comments in the new database
+
 step 3 (optional): migrate more movies and comments
 
 If you have successfully migrated the movies with rating >= 8.5, you can try migrating more movies: Try a lower rating and see how many you can migrate
