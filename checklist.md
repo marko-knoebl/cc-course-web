@@ -16,13 +16,12 @@
 - [ ] **asynchronous code**
   - [ ] **asynchronous code with `async` / `await`**
   - [ ] asynchronous code with `.then`
-  - [ ] creating custom promises
 - [ ] **APIs**
   - [ ] **using fetch to send network requests**
     - [ ] **specifying the URL**
     - [ ] **specifying the HTTP method**
     - [ ] **specifying the request body**
-    - [ ] **using `URLSearchParams`** to build a search parameter string
+    - [ ] **using `URLSearchParams` to build a search parameter string**
   - [ ] (API keys)
   - [ ] **JSON format**
 
@@ -115,11 +114,11 @@
     - [ ] **finding multiple by fields**
     - [ ] **query operators and options**
       - [ ] **$lt, $gt**
-      - [ ] **$and, $or**
+      - [ ] **$or**
       - [ ] **$regex**
       - [ ] **$options**
       - [ ] ...
-    - [ ] **sorting results**
+    - [ ] **sorting**
     - [ ] **pagination with _skip_ and _limit_**
   - [ ] **creating records**
   - [ ] **updating records**
@@ -140,6 +139,7 @@
     - [ ] **`useParams`**
     - [ ] **`useSearchParams`**
 - [ ] **express middleware (use)**
+- [ ] **index.js in folders**
 - [ ] MERN exercises
 
 # various
@@ -150,16 +150,11 @@
 # extras
 
 - [ ] TypeScript
-  - [ ] type declarations
-  - [ ] primitive types, array types, object types
-  - [ ] any
-  - [ ] type aliases and interfaces basics
-  - [ ] function signatures and function types
-  - [ ] using (pre-existing) generics
 - [ ] react-query
 - [ ] CSS
-- [ ] testing
-- [ ] database indexes
-- [ ] database joins
 - [ ] authentication
+- [ ] databases
+  - [ ] database indexes
+  - [ ] lookups in mongoDB
+- [ ] testing
 - [ ] hardware (processor, RAM, ...)
