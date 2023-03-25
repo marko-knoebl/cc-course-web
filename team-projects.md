@@ -39,3 +39,10 @@
   - [repository](https://github.com/MelinaPr/FInance-Manager)
   - [front-end deployment](https://endurable-speckle-bromine.glitch.me/)
   - [back-end deployment](https://liberating-scythe-oviraptor.glitch.me/api)
+
+## project: movie app (react, express, mongodb)
+
+- Hans, Kata, Manuel
+  - [repository](https://github.com/Kenavm/movie-application)
+- Adrian, Melina, Theresa, Viki
+  - [repository](https://github.com/TheresaGri/MovieApp)
