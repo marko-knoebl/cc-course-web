@@ -4,22 +4,22 @@ total duration: 15 weeks
 
 planned schedule (subject to change):
 
-| start | January batch                                             | February batch                             |
-| ----- | --------------------------------------------------------- | ------------------------------------------ |
-| 01-09 | JavaScript features, fetch (ch 1)                         |                                            |
-| 01-23 | express (ch 2)                                            |                                            |
-| 02-06 | React (ch 3)                                              | React (ch 3)                               |
-| 02-27 | express / extra topics (e.g. TS, CSS, testing) / workbook | express (ch 2)                             |
-| 03-13 | mongoDB (ch 4)                                            | mongoDB (ch 4)                             |
-| 03-27 | exercises (ch 5)                                          | JavaScript basics, fetch (ch 1) / workbook |
-| 04-10 | exercises (ch 5) / extra topics                           | exercises / recap / extra topics           |
-| 04-24 | PAs                                                       | exercises / recap / extra topics           |
-| 05-08 |                                                           | exercises / recap / extra topics           |
-| 05-22 |                                                           | PAs                                        |
+| start | January batch                                             | February batch                                     | next batch |
+| ----- | --------------------------------------------------------- | -------------------------------------------------- | ---------- |
+| 01-09 | JavaScript features, fetch (ch 1)                         |                                                    |            |
+| 01-23 | express (ch 2)                                            |                                                    |            |
+| 02-06 | React (ch 3)                                              | React (ch 3)                                       |            |
+| 02-27 | express / extra topics (e.g. TS, CSS, testing) / workbook | express (ch 2)                                     |            |
+| 03-13 | mongoDB (ch 4)                                            | mongoDB (ch 4)                                     |            |
+| 03-27 | MERN (ch 5)                                               | JavaScript basics, fetch (ch 1)                    |            |
+| 04-10 | exercises / recap / extra topics / workbook / PAs?        | MERN (ch 5)                                        |            |
+| 04-24 | PAs                                                       | exercises / recap / extra topics / workbook / PAs? | start ?    |
+| 05-08 |                                                           | exercises / recap / extra topics / workbook / PAs  | start ?    |
+| 05-22 |                                                           |                                                    |            |
 
 # starting 01-10
 
-- 2023-01-10: map, filter, reduce, spread ("hECMAthon")
+- 2023-01-10: map, filter, reduce, spread ("hECMAthlon")
 - 2023-01-12: callbacks, higher-order functions ("Hops and Hofs")
 - 2023-01-14: HTTP, APIs, fetch and asynchronous code ("Ask Nasa")
 - 2023-01-17: issue trackers, (branches)
@@ -52,5 +52,26 @@ planned schedule (subject to change):
 - 2023-03-02: calendar app (optional: TypeScript); express basics, HTTP
 - 2023-03-04: calendar app; express basics
 - 2023-03-07: finance app; pizza API
-- 2023-03-09: finance app; pizza API / finance app
-- 2023-03-11: finance app; finance app
+- 2023-03-09: finance app
+- 2023-03-11: finance app; intro to mongoDB
+
+# starting 03-14
+
+- 2023-03-14: mongoDB, mentor reviews
+- 2023-03-16: mongoDB, express middleware
+- 2023-03-18: mongoDB indexes, team project: movie app
+- 2023-03-21: team project: movie app
+- 2023-03-23: team project: movie app, mentor reviews
+- 2023-03-25: team project: movie app, intro to chapters 1 + 5
+
+# starting 03-28
+
+- 2023-03-28:
+  - MERN stack: Employee Madness Refactor, Routing
+  - Modern JS: new features around us / hECMAthlon
+- 2023-03-30:
+  - MERN stack: Employee Madness Features
+  - Hops and Hofs (optionally with React)
+- 2023-04-01:
+  - MERN stack: Employee Madness Features
+  - fetch, "Ask NASA" (pure JS)
