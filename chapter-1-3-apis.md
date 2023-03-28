@@ -15,3 +15,24 @@ API keys
 - WeatherAPI: https://www.weatherapi.com/
 
 big list of public APIs: https://github.com/public-apis/public-apis
+
+## format of an API request
+
+parts / parameters of an API request:
+
+- URL
+  - base: e.g. api.weather.com/
+  - resources: e.g. /weather
+  - query string: e.g. ?day=2023-03-28&place=vienna
+- method: GET, POST, ...
+- headers:
+  - authorization (e.g. user identification, API key)
+- body (e.g. JSON)
+
+## format of an API response
+
+- HTTP status (e.g. 200)
+- headers:
+  - Content-Type
+  - CORS
+- body (e.g. JSON)
