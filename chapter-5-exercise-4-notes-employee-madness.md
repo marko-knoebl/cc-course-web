@@ -38,7 +38,7 @@ Add a favorite brand to each employee.
 
 There should be a separate collection called "FavoriteBrand" with 3 predefined brands in it (e.g. "Acer", "Razer", "HP").
 
-Each employee should have a field _favoriteBrandId_ which references one of the brands. This should be populated randomly inside of _populate.js_.
+Each employee should have a field _favoriteBrand_ which references the ID of one of the brands. This should be populated randomly inside of _populate.js_.
 
 When the employees are listed, you should display the _name_ of each brand (The _id_ of the brand would be rather simple to get, the _name_ now has to be looked up in the FavoriteBrand collection)
 
