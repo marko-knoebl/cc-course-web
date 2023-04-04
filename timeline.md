@@ -11,8 +11,8 @@ planned schedule (subject to change):
 | 02-06 | React (ch 3)                                              | React (ch 3)                                       |            |
 | 02-27 | express / extra topics (e.g. TS, CSS, testing) / workbook | express (ch 2)                                     |            |
 | 03-13 | mongoDB (ch 4)                                            | mongoDB (ch 4)                                     |            |
-| 03-27 | MERN (ch 5)                                               | JavaScript basics, fetch (ch 1)                    |            |
-| 04-10 | exercises / recap / extra topics / workbook / PAs?        | MERN (ch 5)                                        |            |
+| 03-27 | MERN (ch 5)                                               | JavaScript basics, fetch (ch 1), MERN (ch 5)       |            |
+| 04-10 | exercises / recap / extra topics / workbook / PAs?        | exercises / recap / extra topics / workbook        |            |
 | 04-24 | PAs                                                       | exercises / recap / extra topics / workbook / PAs? | start ?    |
 | 05-08 |                                                           | exercises / recap / extra topics / workbook / PAs  | start ?    |
 | 05-22 |                                                           |                                                    |            |
@@ -71,7 +71,17 @@ planned schedule (subject to change):
   - Modern JS: new features around us / hECMAthlon
 - 2023-03-30:
   - MERN stack: Employee Madness Features
-  - Hops and Hofs (optionally with React)
+  - Hops and Hofs (optionally with React), fetch
 - 2023-04-01:
   - MERN stack: Employee Madness Features
-  - fetch, "Ask NASA" (pure JS)
+  - "Ask NASA" (pure JS), employee project refactor, routing
+- 2023-04-04:
+  - MERN stack: Employee Madness Features, own projects
+  - MERN stack: Employee Madness Features
+- 2023-04-06:
+  - MERN stack: Employee Madness Features, own projects
+  - MERN stack: Employee Madness Features
+- 2023-04-08:
+  - MERN stack: Employee Madness Features, own projects
+  - MERN stack: Employee Madness Features
+  - start team projects?
