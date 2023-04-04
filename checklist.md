@@ -124,6 +124,7 @@
   - [ ] **updating records**
   - [ ] **deleting records**
 - [ ] **working with the _ObjectId_ type**
+- [ ] **storing objects and arrays inside of documents**
 - [ ] **using mongoose** for managing mondoDB databases
 - [ ] **mongoose schema definition**
   - [ ] **default values**
