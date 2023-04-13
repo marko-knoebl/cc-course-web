@@ -1,0 +1,20 @@
+[
+  {
+    "id": "thinkpad",
+    "name": "Thinkpad",
+    "type": "laptop",
+    "price": 1400
+  },
+  {
+    "id": "macbook",
+    "name": "MacBook",
+    "type": "laptop",
+    "price": 1500
+  },
+  {
+    "id": "iphone",
+    "name": "IPhone",
+    "type": "phone",
+    "price": 1100
+  }
+]

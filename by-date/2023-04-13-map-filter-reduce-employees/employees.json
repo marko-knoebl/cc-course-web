@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Robert De Niro",
+    "level": "Senior",
+    "position": "Joker",
+    "present": false,
+    "equipment": "macbook",
+    "brand": "Razer",
+    "age": 20
+  },
+  {
+    "name": "Marlon Brando",
+    "level": "Senior",
+    "position": "Main Actor",
+    "present": false,
+    "equipment": "thinkpad",
+    "brand": "Acer",
+    "age": 65
+  },
+  {
+    "name": "Jack Nicholson",
+    "level": "Medior",
+    "position": "Director",
+    "present": false,
+    "equipment": "iphone",
+    "brand": "HP",
+    "age": 53
+  },
+  {
+    "name": "Tom Hanks",
+    "level": "Expert",
+    "position": "Superhero",
+    "present": false,
+    "equipment": "macbook",
+    "brand": "Razer",
+    "age": 58
+  }
+]
