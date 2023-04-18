@@ -26,9 +26,19 @@ the page should be under _/employees-missing_
 
 no task changes
 
+notes:
+
+In this scenario, an employee only uses one type of equipment - you can create a dropdown where this one type of equipment can be selected for an employee.
+
+You can save the equipment name in the employee document as a string (easy solution) or as an object ID (more complex solution)
+
 ## Pagination
 
 no task changes
+
+notes:
+
+you can do pagination with a fixed number of pages - e.g. always show buttons for 10 pages, even if there aren't as many - or get the total number of items from the API query and adjust the number of pages accordingly
 
 ## Favorite brand
 

@@ -25,6 +25,8 @@ The result could look like this (if there are 100 employees):
 }
 ```
 
+Note: This route definition has to go _above_ `app.use("/api/employees/:id" ...`
+
 ## Task: Client-side routing
 
 no changes
@@ -61,7 +63,7 @@ Every **layout** page needs an `<Outlet />` element
 
 **Why?**
 
-In the future, you will have routes for different entities, e.g. _/employees_, _/equipments_, ...
+In the future, you will have routes for different entities, e.g. _/employees/create_, _/equipment/create_, ...
 
 ## Modified task: client-side routing evolved
 
