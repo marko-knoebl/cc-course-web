@@ -2,10 +2,10 @@
 
 ### materials
 
-- [chapter-1-1-evolution-of-the-web.md](chapter-1-1-evolution-of-the-web.md)
-- [chapter-1-2-http.md](chapter-1-2-http.md)
-- [chapter-1-3-apis.md](chapter-1-3-apis.md)
-- [chapter-1-4-fetch-and-asynchronous-javascript.md](chapter-1-4-fetch-and-asynchronous-javascript.md)
+- [chapter1/topic-1-evolution-of-the-web.md](chapter1/topic-1-evolution-of-the-web.md)
+- [chapter1/topic-2-http.md](chapter1/topic-2-http.md)
+- [chapter1/topic-3-apis.md](chapter1/topic-3-apis.md)
+- [chapter1/topic-4-fetch-and-asynchronous-javascript.md](chapter1/topic-4-fetch-and-asynchronous-javascript.md)
 
 ### exercises
 
