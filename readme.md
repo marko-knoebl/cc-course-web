@@ -1,6 +1,8 @@
-## topic 1: JavaScript features, network requests
+## chapter 1: JavaScript features, network requests
 
 [chapter1](chapter1)
+
+## chapter 2: Express
 
 ## topic 5: MERN
 
