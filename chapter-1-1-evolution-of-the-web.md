@@ -1,5 +1,7 @@
 # evolution of the web
 
+<img src="chapter-1-1-evolution-of-the-web.jpg" />
+
 phase 1: original architecture of the web:
 
 - static content
