@@ -12,7 +12,7 @@ for this task, you need an existing database and API - for example: _todos_, _fi
 
 ## Task 1: log requests
 
-create middleware in one of your express APIs and store _logs_ about API requests in a database collection
+create a _custom_ middleware in one of your express APIs and store _logs_ about API requests in a database collection
 
 the collection should be called _logs_
 
