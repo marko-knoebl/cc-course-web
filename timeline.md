@@ -4,18 +4,18 @@ total duration: 15 weeks
 
 planned schedule (subject to change):
 
-| start | January batch                       | February batch                               | next batch   |
-| ----- | ----------------------------------- | -------------------------------------------- | ------------ |
-| 01-09 | JavaScript features, fetch (ch 1)   |                                              |              |
-| 01-23 | express (ch 2)                      |                                              |              |
-| 02-06 | React (ch 3)                        | React (ch 3)                                 |              |
-| 02-27 | express / extra topics / workbook   | express (ch 2)                               |              |
-| 03-13 | mongoDB (ch 4)                      | mongoDB (ch 4)                               |              |
-| 03-27 | MERN (ch 5)                         | JavaScript basics, fetch (ch 1), MERN (ch 5) |              |
-| 04-10 | MERN solo, MERN team, (PAs?)        | MERN (ch 5), MERN team                       |              |
-| 04-24 | PAs (optional: recap, extra topics) | (PAs?), recap, extra topics                  | start Agata? |
-| 05-08 |                                     | PAs, recap, extra topics                     | start ?      |
-| 05-15 | OOP module start?                   | OOP moule start?                             |              |
+| start | January batch                       | February batch                               | May batch          |
+| ----- | ----------------------------------- | -------------------------------------------- | ------------------ |
+| 01-09 | JavaScript features, fetch (ch 1)   |                                              |                    |
+| 01-23 | express (ch 2)                      |                                              |                    |
+| 02-06 | React (ch 3)                        | React (ch 3)                                 |                    |
+| 02-27 | express / extra topics / workbook   | express (ch 2)                               |                    |
+| 03-13 | mongoDB (ch 4)                      | mongoDB (ch 4)                               |                    |
+| 03-27 | MERN (ch 5)                         | JavaScript basics, fetch (ch 1), MERN (ch 5) |                    |
+| 04-10 | MERN solo, MERN team, (PAs?)        | MERN (ch 5), MERN team                       |                    |
+| 04-24 | PAs (optional: recap, extra topics) | (PAs?), recap, extra topics                  | batch start: 05-02 |
+| 05-08 |                                     | PAs, recap, extra topics                     |                    |
+| 05-15 | OOP module start                    | OOP moule start                              |                    |
 
 # starting 01-10
 
@@ -90,3 +90,20 @@ planned schedule (subject to change):
 
 - 2023-04-11: Employee Madness features, own projects
 - 2023-04-13: Employee Madness features, own projects, map/filter/reduce ...
+- 2023-04-15: Employee Madness features, own projects, team projects start
+- 2023-04-18: team projects
+- 2023-04-20: team projects
+- 2023-04-22: team projects
+
+# starting 04-25
+
+- 2023-04-25: SI: recap, authentication, testing
+- 2023-04-27: SI: recap, authentication, testing
+- 2023-04-29: SI: recap, authentication, testing (**Marko on holiday**)
+- 2023-05-02: SI: recap, authentication, testing, **new batch start**
+- 2023-05-04: SI: recap, authentication, testing
+- 2023-05-06: Team: MERN (+auth) (+testing)
+- 2023-05-09: Team: MERN (+auth) (+testing)
+- 2023-05-11: Team: MERN (+auth) (+testing)
+- 2023-05-13: Team: MERN (+auth) (+testing)
+- 2023-05-16: **OOP Module start**
