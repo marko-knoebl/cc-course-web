@@ -1,10 +1,8 @@
-# Chapter 3: resources
+# Chapter 3: React
 
-- [beta.reactjs.org](https://beta.reactjs.org/): next version React documentation, very high quality
+- [react.dev](https://react.dev): official React documentation, high quality
 - [Video Playlist: React course](https://www.youtube.com/watch?v=KEoMvroP-r4&list=PLRrX6S8UZpZlFTtdo9RONPO3rYi_UAqmD)
 - [E-Book: 12 React Exercises for Beginners](https://capela.gumroad.com/l/12-react-exercises-for-beginners)
-
----
 
 ## 12 exercises
 
