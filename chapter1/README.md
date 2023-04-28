@@ -1,6 +1,6 @@
 ## topic 1: JavaScript features, network requests
 
-### materials
+### APIs: materials
 
 - [topic-1-evolution-of-the-web.md](topic-1-evolution-of-the-web.md)
 - [topic-2-http.md](topic-2-http.md)
@@ -9,11 +9,20 @@
 
 ### exercises
 
-- possible replacement for _hECMAthlon_: [extra-exercise-products-map-filter-spread-reduce](extra-exercise-products-map-filter-spread-reduce)
-- [exercise-notes-weather-app.md](exercise-notes-weather-app.md)
-  - ([example-solution-starter-weather](example-solution-starter-weather))
-- extra: [example-api-pokemon](example-api-pokemon)
-- extra: [extra-exercise-rick-and-morty.md](extra-exercise-rick-and-morty.md)
+- _new features around us_
+- _hECMAthlon_
+  - **alternatively**, do these replacement exercises: [extra-exercise-products-map-filter-spread-reduce/](extra-exercise-products-map-filter-spread-reduce)
+- _Hops and Hofs_
+  - **alternatively**, create a page that displays information from this API: https://young-berry-chiller.glitch.me/ (manages data for a pizza place)
+    - this page does not need much interactivity, the main task is to display information
+- _Ask NASA_
+- _team project: weather app_
+  - [exercise-notes-weather-app.md](exercise-notes-weather-app.md)
+    - ([example-solution-starter-weather](example-solution-starter-weather))
+
+### extra exercises
+
+- [extra-exercise-rick-and-morty.md](extra-exercise-rick-and-morty.md)
 
 ### examples
 
