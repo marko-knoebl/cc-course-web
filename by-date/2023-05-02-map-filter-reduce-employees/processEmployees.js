@@ -50,3 +50,28 @@ function getFirstNames(employees) {
   // TODO
 }
 console.log(getFirstNames(EMPLOYEES));
+
+function getBiggestAge1(employees) {
+  let maxAge = 0;
+  for (let employee of employees) {
+    maxAge = employee.age > maxAge ? employee.age : maxAge;
+  }
+  return maxAge;
+}
+console.log(getBiggestAge1(EMPLOYEES));
+
+function getBiggestAge2(employees) {
+  return employees.reduce(
+    // (acc, curr)
+    (maxAge, employee) => {
+      return employee.age > maxAge ? employee.age : maxAge;
+    },
+    0
+  )
+}
+console.log(getBiggestAge2(EMPLOYEES));
+
+function getOldestEmployee() {
+
+}
+
