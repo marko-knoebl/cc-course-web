@@ -2,6 +2,8 @@
 
 - [ ] JavaScript versions
 - [ ] `let`, `const` (and `var`)
+- [ ] **`require`**
+- [ ] **`import` / `export`**
 - [ ] **arrow functions**
 - [ ] **spread operator (`...`)**
 - [ ] **ternary operator / conditional operator**
@@ -31,7 +33,6 @@
   - [ ] `npm install foopackage`
   - [ ] `npm install`
   - [ ] `npm run`
-  - [ ] `import` vs `require`
 - [ ] web server concepts
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
@@ -62,7 +63,6 @@
 
 - [ ] use cases of React
 - [ ] **JavaScript basics for React**
-  - [ ] **JavaScript modules and `import` / `export`**
   - [ ] **immutability / data management without mutations**
     - [ ] **updating properties of objects**
     - [ ] **adding properties to objects**
@@ -99,7 +99,6 @@
 - [ ] hooks
 - [ ] **querying APIs**
   - [ ] **effect hook**
-  - [ ] API query libraries for React: e.g. _react-query_
 
 # chapter 4
 
@@ -147,15 +146,3 @@
 
 - [ ] issue / bug trackers
 - [ ] git branches
-
-# extras
-
-- [ ] TypeScript
-- [ ] react-query
-- [ ] CSS
-- [ ] authentication
-- [ ] databases
-  - [ ] database indexes
-  - [ ] lookups in mongoDB
-- [ ] testing
-- [ ] hardware (processor, RAM, ...)
