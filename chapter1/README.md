@@ -17,8 +17,10 @@
 - _hECMAthlon_
   - **alternatively**, do these replacement exercises: [extra-exercise-products-map-filter-spread-reduce/](extra-exercise-products-map-filter-spread-reduce)
 - _Hops and Hofs_
-  - **alternatively**, create a page that displays information from this API: https://young-berry-chiller.glitch.me/ (manages data for a pizza place)
-    - this page does not need much interactivity, the main task is to display information
+  - **alternatively**, create pages that display information from an API:
+    - pages don't need much interactivity, the main task is to display information
+    - list of public APIs you can use: https://github.com/public-apis/public-apis
+    - API that manages pizzas and pizza orders: https://young-berry-chiller.glitch.me/
 - _Ask NASA_
 - _team project: weather app_
   - [exercise-notes-weather-app.md](exercise-notes-weather-app.md)
