@@ -1,5 +1,9 @@
 ## topic 1: JavaScript features, network requests
 
+### map, filter, reduce
+
+[diagrams for map, filter, reduce](map-filter-reduce-diagrams.jpg)
+
 ### APIs: materials
 
 - [topic-1-evolution-of-the-web.md](topic-1-evolution-of-the-web.md)
