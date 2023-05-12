@@ -34,3 +34,4 @@
 
 - [example-api-exchange-rates](example-api-exchange-rates)
 - [example-api-pokemon](example-api-pokemon)
+- [example-pizza-api](exapmple-pizza-api) (includes POST / PATCH / DELETE / ... requests)
