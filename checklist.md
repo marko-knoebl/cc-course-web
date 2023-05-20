@@ -20,10 +20,8 @@
   - [ ] asynchronous code with `.then`
 - [ ] **APIs**
   - [ ] **using fetch to send network requests**
-    - [ ] **specifying the URL**
-    - [ ] **specifying the HTTP method**
-    - [ ] **specifying the request body**
     - [ ] **using `URLSearchParams` to build a search parameter string**
+    - [ ] **specifying the HTTP method, headers and body**
   - [ ] (API keys)
   - [ ] **JSON format**
 
@@ -33,7 +31,7 @@
   - [ ] `npm install foopackage`
   - [ ] `npm install`
   - [ ] `npm run`
-- [ ] web server concepts
+  - [ ] _nodemon_
 - [ ] **HTTP**
   - [ ] **methods: _GET_, _POST_, ...**
   - [ ] header entries
@@ -48,8 +46,8 @@
     - [ ] rendering templates (e.g. ejs)
     - [ ] **sending JSON**
   - [ ] **routing**
-  - [ ] **handling different methods (_GET_, _POST_, ...)**
-  - [ ] **handling URL parameters**
+  - [ ] **handling different methods**
+  - [ ] **handling URL parameters and query parameters**
     - [ ] **/pizzas/1**
     - [ ] **/pizzas?max-price=14&sort-by=name**
   - [ ] **parsing the request body**
