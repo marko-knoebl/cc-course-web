@@ -91,7 +91,8 @@
 - ~~Write the code that prints to the console `component destroyed` when the component it is part of is removed from the DOM tree.~~
 - Why is there an infinite loop in this code
 
-```function App() {
+```js
+function App() {
   const [count, setCount] = useState(0); //initial value of this
   useEffect(() => {
     setCount((count) => count + 1); //increment this Hook
@@ -104,14 +105,25 @@
 }
 ```
 
-- ~~Why is there an infinite loop in this code~~
+- Why is there an infinite loop in this code?
 
-X
+```js
+function App() {
+  const [count, setCount] = useState(0);
+  setCount(count + 1);
+  return (
+    <div className="App">
+      <p> value of count: {count} </p>
+    </div>
+  );
+}
+```
 
 # Mongo & mongoose
 
 - What is a database schema ?
 - ~~Why is the `id` unique in a database ?~~
+- What is the _id_ used for in a database (replacement question for the question above)
 - ~~What are the advatanges & disadvatages of using `lean()` function in a mongo query ?~~
 - Write the code to store the object `{name: "Andrew", age: 10}` to a mongo database. You can ignore the part of connection parameters.
 - Write the code to delete from a mongo database all employees that are over 18 years. The scheme for an employee is `{name: string, age: int}`. You can ignore the part of connection parameters.
